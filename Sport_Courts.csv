@@ -1,0 +1,27 @@
+﻿OBJECTID,InfrastructureID,LifecycleStatus,Condition,InstallDate,SportCourtType,Material,HalfCourt,LocationType,LocationName,Owner,OwnerNotes,Custodian,CustodianNotes,Comments,Uniformat,SHAPE_Length,SHAPE_Area
+1,SCT1,ACT,4,2021/08/20 00:00:00+00,tennis,asphalt - court lined,No,park,Barnard Park,VC,City of Victoria,VC,Parks Department,"Construction date not known, resurfaced 2021 PlayCo",G2040021,135.20745,1141.424283
+2,SCT2,ACT,4,2008/11/14 00:00:00+00,tennis,asphalt - court lined,No,park,Hollywood Park,VC,City of Victoria,VC,Parks Department,crack repairs & courts resurfaced Tomko 2019,G2040021,132.8349789,1095.08336
+3,SCT3,ACT,3,2008/01/01 00:00:00+00,tennis,asphalt,No,park,Central Park,VC,City of Victoria,VC,Parks Department,Wood 2 X 10's at base of fence,G2040021,138.4830768,1195.405857
+4,SCT5,ACT,1,2006/01/01 00:00:00+00,basketball,plastic,No,park,Central Park,VC,City of Victoria,VC,Parks Department,"Sport court plastic interlocking, asphalt underlay",G2040022,92.57591602,495.3718436
+5,SCT6,ACT,2,2007/06/01 00:00:00+00,pickle ball,asphalt - court lined,No,park,Franklin Green,VC,City of Victoria,VC,Parks Department,Pickle ball court,G2040024,39.64439094,91.96396936
+6,SCT7,ACT,4,2011/11/15 00:00:00+00,basketball,asphalt - court lined,Yes,park,Oswald Park,VC,City of Victoria,VC,Parks Department,Lines repainted Aug 2021,G2040023,72.21220147,309.9182146
+7,SCT8,ACT,4,2014/01/02 00:00:00+00,tennis,asphalt - court lined,No,park,Stadacona Park,VC,City of Victoria,VC,Parks Department,Crack repair & resurfaced Tomko 2018,G2040021,138.5065807,1195.727444
+8,SCT9,ACT,4,2014/01/02 00:00:00+00,tennis,asphalt - court lined,No,park,Stadacona Park,VC,City of Victoria,VC,Parks Department,"Cracks repaired, courts resurfaced 2020",G2040021,158.3743685,1560.190538
+9,SCT10,ACT,2,1988/11/29 00:00:00+00,bike,bike skills,No,park,Cecelia Ravine Park,VC,City of Victoria,VC,Parks Department,,G2040025,196.9923627,1646.558244
+10,SCT11,ACT,4,2014/11/14 00:00:00+00,tennis,asphalt - court lined,No,park,Oaklands Park,VC,City of Victoria,VC,Parks Department,"Cracks repaired, courts resurfaced 2020, pickleball lines on two east courts",G2040021,467.7650334,1085.867597
+11,SCT12,ACT,4,2014/11/13 00:00:00+00,multi-use,asphalt,Yes,park,Oaklands Park,VC,City of Victoria,VC,Parks Department,hockey and basketball,G2040026,100.6558951,628.0229154
+12,SCT13,ACT,4,2008/12/05 00:00:00+00,tennis,asphalt - court lined,No,park,Banfield Park,VC,City of Victoria,VC,Parks Department,,G2040021,132.8605086,1099.587181
+13,SCT14,ACT,4,2005/01/17 00:00:00+00,tennis,asphalt - court lined,No,park,Ernest Todd Parkette,VC,City of Victoria,VC,Parks Department,,G2040021,162.0258132,1622.338162
+14,SCT15,ACT,4,1994/12/02 00:00:00+00,tennis,asphalt - court lined,No,park,Beacon Hill Park,VC,City of Victoria,VC,Parks Department,Crack repair & courts re-surfaced Tomko 2019,G2040021,165.6854879,1692.997688
+15,SCT16,ACT,4,2003/12/06 00:00:00+00,skate,skate park,No,park,Victoria West Park,VC,City of Victoria,VC,Parks Department,,G2040027,235.2817097,2671.471892
+16,SCT17,ACT,4,1998/12/05 00:00:00+00,multi-use,asphalt,Yes,park,Banfield Park,VC,City of Victoria,VC,Parks Department,Multi use sport court (basketball and hockey),G2040026,72.84702458,317.5626575
+17,SCT18,ACT,3,2008/11/29 00:00:00+00,multi-use,asphalt,Yes,park,Cecelia Ravine Park,VC,City of Victoria,VC,Parks Department,"Lines repainted 2021 Multi use sport court (basketball, hockey, bike)",G2040026,94.87917934,438.6462955
+18,SCT19,ACT,2,1998/11/27 00:00:00+00,basketball,asphalt,No,park,William Stevenson Memorial Park,VC,City of Victoria,VC,Parks Department,,G2040023,109.8902172,790.6685631
+19,SCT20,ACT,4,2009/01/03 00:00:00+00,basketball,plastic,No,park,Victoria West Park,VC,City of Victoria,VC,Parks Department,sport court plastic interlocking,G2040022,79.52732963,346.6296361
+20,SCT21,ACT,3,1993/12/05 00:00:00+00,lacrosse box,asphalt - court lined,No,park,Topaz Park,VC,City of Victoria,VC,Parks Department,,G2040028,157.4497239,1477.306225
+21,SCT22,ACT,1,1988/12/03 00:00:00+00,basketball,asphalt,Yes,park,Beacon Hill Park,VC,City of Victoria,VC,Parks Department,basketball,G2040023,72.12310455,305.7235944
+22,SCT23,ACT,3,2014/11/14 00:00:00+00,tennis,asphalt - court lined,No,park,Oaklands Park,VC,City of Victoria,VC,Parks Department,tennis court middle left (west),G2040021,69.49248285,260.8665183
+23,SCT24,ACT,3,2014/11/14 00:00:00+00,tennis,asphalt - court lined,No,park,Oaklands Park,VC,City of Victoria,VC,Parks Department,tennis court middle right (east),G2040021,69.45007371,260.636273
+24,SCT25,ACT,4,2014/11/14 00:00:00+00,tennis,asphalt - court lined,No,park,Oaklands Park,VC,City of Victoria,VC,Parks Department,tennis court furthest right (east),G2040021,69.34663544,259.4122059
+25,SCT423,ACT,3,2014/11/14 00:00:00+00,tennis,asphalt - court lined,No,park,Oaklands Park,VC,City of Victoria,VC,Parks Department,tennis court furthest left (west),G2040021,69.33528789,259.4387257
+26,SCT827,ACT,,,basketball,asphalt,No,park,South Park,VC,City of Victoria,VC,Parks Department,,G2040023,154.5047542,1453.403587
